@@ -1,14 +1,20 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Tour Guide For Hire
+email: marina@tourguideforhire.com
+myname: Marina Martinez
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Guiding tours all around Portland, Oregon.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.tourguideforhire.com/" # the base hostname & protocol for your site
+twitter_username: marinarosemartinez
 
 # Build settings
 markdown: kramdown
+ftp_host: 'tourguideforhire.com'
+ftp_dir: '/'
+ftp_passive: false
+
+# optional
+ftp_port: 21                  # default 21
+ftp_username: 'tourguideforhire@marinarosemartinez.com'     # default read from stdin
+ftp_password: 'wu[-}TCGr]=A' # default read from stdin
