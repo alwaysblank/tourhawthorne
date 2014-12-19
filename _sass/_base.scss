@@ -22,7 +22,15 @@ body {
     background-color: $background-color;
 }
 
+.left {
+  float: left;
+  margin-right: .5em;
+}
 
+.right {
+  float: right;
+  margin-left: .5em;
+}
 
 /**
  * Set `margin-bottom` to maintain vertycal rhythm

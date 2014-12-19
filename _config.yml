@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Guiding tours all around Portland, Oregon.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tourguideforhire.com/" # the base hostname & protocol for your site
-twitter_username: marinarosemartinez
+twitter_username: marinarmartinez
 
 # Build settings
 markdown: kramdown
