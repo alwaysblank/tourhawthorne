@@ -14,6 +14,8 @@ Tickets are $20 for adults, $10 for kids 7-12, and $12 for seniors and veterans.
 
 We are no longer affiliated with Spirit Expeditions. 
 
+[Click here](/hawthorne/mainspring/) to read about our "donations for tickets" deal with Mainspring Portland.
+
 Please have your tickets available for the guide to check.
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=14917118503&ref=etckt" frameborder="0" height="370" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Sell Tickets</a> <span style="color:#ddd;">through</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>

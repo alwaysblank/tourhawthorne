@@ -8,6 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tourguideforhire.com/" # the base hostname & protocol for your site
 twitter_username: tourhawthorne
 
+# Outputting
+permalink:     none
+
 # Build settings
 markdown: kramdown
 ftp_host: 'tourguideforhire.com'
