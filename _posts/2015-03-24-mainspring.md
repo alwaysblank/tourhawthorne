@@ -3,7 +3,7 @@ layout: post
 title: "Free Hawthorne Ghost Tour Tickets at Mainspring Portland"
 date: 2015-03-24 20:28:36 +0000
 category: press-release
-permalink: /hawthorne/mainspring/
+permalink: /mainspring/
 ---
 **MAINSPRING PORTLAND**
 
@@ -54,4 +54,4 @@ can learn more at our website,
 The Hawthorne Ghost Tour is an exciting walking tour through the heart
 of Hawthorne Blvd, also known as the most haunted street in Southeast
 Portland. Tickets are available for purchase at
-[tourguideforhire.com/hawthorne](http://www.tourguideforhire.com/hawthorne).
+[tourhawthorne.com](http://www.tourhawthorne.com).
