@@ -1,12 +1,12 @@
-<header class="pt6 cover bg-top bg-dark-red site-header flex items-center">
-    <div class="navWrap bg-red fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l top-0">
+<header class="pt6 cover bg-top site-header flex items-center">
+    <div class="navWrap fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l top-0">
         <nav class="f6 fw6 ttu tracked">
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
-            <a class="link dim white dib mr3{{if or ($currentPage.IsMenuCurrent " main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            <a class="page-{{.Name | urlize}} link dim white dib mr3{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
             {{ end }}
         </nav>
     </div>
 
-        <h1 class="f3 f1-m f-headline-l ttu tracked-tight mt0 measure pa3 pa5-ns tl">{{ .Title }} </h1>
+        <h1 class="f2 f1-m f-headline-l ttu tracked-tight mt0 measure pa3 pa5-ns tl">{{ .Title }} </h1>
 </header>

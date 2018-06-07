@@ -1,6 +1,10 @@
 ---
 title: "Hawthorne Ghost Tour"
 date: 2018-05-09T19:01:31-07:00
+menu: 
+    main:
+        weight: 100
+        name: "Home"
 ---
 **The Hawthorne Ghost Tour** is a fun, exciting, and educational adventure through the heart of East Portland’s old red light district. This is a walking tour that takes between 1.5 and 2 hours, during which we will walk approximately a mile and a half. We have frequent stops to tell spooky and real-life stories about Portland and the Pacific Northwest, and we attempt to make contact with the hereafter at two separate locations, weather permitting.
 
