@@ -8,4 +8,4 @@ The Hawthorne Ghost Tour has been run by [Marina Martinez](http://marinaforhire.
 
 Press inquiries: Please call Marina at [714-675-1124](tel:7146751124) or email [marina@tourguideforhire.com](mailto:marina@tourguideforhire.com).
 
-[Click here](/mainspring) to read about our policies on donations. 
+[Click here](/donations) to read about our policies on donations. 
