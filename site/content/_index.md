@@ -8,7 +8,7 @@ menu:
 ---
 ## We're Back!
 
-**The Hawthorne Ghost Tour is now offering private tours!**
+**For summer 2021, Hawthorne Ghost Tour is now offering private tours!**
 
 The fine print: Private tour tickets are $40 per person. All tour guests must wear their mask while on the tour. Tour groups must be at least 2 people and no more than 6 people. Tours happen on your schedule, as long as we have availability.
 
