@@ -6,6 +6,14 @@ menu:
     name: Home
     weight: 100
 ---
+## We're Back!
+
+**The Hawthorne Ghost Tour is now offering private tours!**
+
+The fine print: Private tour tickets are $40 per person. All tour guests must wear their mask while on the tour. Tour groups must be at least 2 people and no more than 6 people. Tours happen on your schedule, as long as we have availability.
+
+---
+
 **The Hawthorne Ghost Tour** is a fun, exciting, and educational adventure through the heart of East Portland’s old red light district. This is a walking tour that takes between 1.5 and 2 hours, during which we will walk approximately a mile and a half. 
 
 We have frequent stops to tell spooky and real-life stories about Portland and the Pacific Northwest, and we attempt to make contact with the hereafter at two separate locations, weather permitting.
